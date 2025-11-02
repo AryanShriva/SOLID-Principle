@@ -1,5 +1,5 @@
 <archetype>
-  <id>srp_correct</id>
+  <id>OpenClosedPrinciple-OCP</id>
   <sources>
     <source>src/main/java/App.java</source>
   </sources>
