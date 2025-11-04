@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/Single Responsible Principle (SRP)/pom.xml" />
         <option value="$PROJECT_DIR$/OpenClosedPrinciple-OCP/pom.xml" />
         <option value="$PROJECT_DIR$/LiskovSubstitutionPrinciple-LSP/pom.xml" />
+        <option value="$PROJECT_DIR$/InterfaceSegregationPrinciple-ISP/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
