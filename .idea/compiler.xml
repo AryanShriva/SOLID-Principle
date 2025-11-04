@@ -5,6 +5,7 @@
       <directory url="file://$PROJECT_DIR$/SingleResponsiblePrinciple-SRP/src/main/resources/archetype-resources" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/SingleResponsiblePrinciple-SRP/srp_correct/src/main/resources/archetype-resources" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/OpenClosedPrinciple-OCP/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/LiskovSubstitutionPrinciple-LSP/src/main/resources/archetype-resources" includeSubdirectories="true" />
     </excludeFromCompile>
     <annotationProcessing>
       <profile name="Maven default annotation processors profile" enabled="true">
@@ -12,6 +13,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="OpenClosedPrinciple-OCP" />
+        <module name="LiskovSubstitutionPrinciple-LSP" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
