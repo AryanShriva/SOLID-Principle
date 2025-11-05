@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/OpenClosedPrinciple-OCP/pom.xml" />
         <option value="$PROJECT_DIR$/LiskovSubstitutionPrinciple-LSP/pom.xml" />
         <option value="$PROJECT_DIR$/InterfaceSegregationPrinciple-ISP/pom.xml" />
+        <option value="$PROJECT_DIR$/DependencyInversionPrinciple-DIP/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
